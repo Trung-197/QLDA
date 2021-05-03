@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\bin\Debug\QuanLyVCS.exe.config
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\bin\Debug\QuanLyVCS.exe
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\bin\Debug\QuanLyVCS.pdb
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.DangNhap.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.HeThong.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.QLTeam.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.exe
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.pdb
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.GameThu.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.HuanLuyenVien.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.LuongGameThu.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.LuongHLV.resources
+C:\Users\Admin\source\repos\QuanLyVCS\QuanLyVCS\obj\Debug\QuanLyVCS.HopDongGameThu.resources
